@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-int32-base",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.2",
   "description": "Base utilities for signed 32-bit integers.",
   "license": "Apache-2.0",
   "author": {
