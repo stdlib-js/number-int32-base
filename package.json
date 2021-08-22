@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-int32-base",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Base utilities for signed 32-bit integers.",
   "license": "Apache-2.0",
   "author": {
@@ -15,6 +15,7 @@
   ],
   "main": "lib/index.js",
   "directories": {
+    "doc": "./docs",
     "example": "./examples",
     "lib": "./lib",
     "test": "./test"
