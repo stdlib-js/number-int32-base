@@ -1,0 +1,33 @@
+{
+  "name": "@stdlib/number-int32-base",
+  "version": "0.0.0",
+  "description": "Base utilities for signed 32-bit integers.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/number-int32-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "base",
+    "namespace",
+    "ns",
+    "int32",
+    "signed",
+    "integer",
+    "int",
+    "32-bit"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
