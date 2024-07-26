@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-int32-base",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Base utilities for signed 32-bit integers.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@stdlib/number-int32-base-to-uint32": "^0.2.1",
-    "@stdlib/utils-define-read-only-property": "^0.2.1"
+    "@stdlib/utils-define-read-only-property": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/constants-int32-max": "^0.2.1",
