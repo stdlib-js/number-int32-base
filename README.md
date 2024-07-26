@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-int32-base@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-int32-base@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { int32ToUint32 } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-int32-base@deno/mod.js';
+import { int32ToUint32 } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-int32-base@v0.2.2-deno/mod.js';
 ```
 
 #### ns
@@ -84,7 +84,7 @@ var o = ns;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-int32-base@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-int32-base@v0.2.2-deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
