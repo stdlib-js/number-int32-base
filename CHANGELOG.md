@@ -4,71 +4,30 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="number-int32-base-mul-unreleased">
-
-#### [@stdlib/number/int32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base/mul)
-
-<details>
+## Unreleased (2025-08-11)
 
 <section class="features">
 
-##### Features
+### Features
 
+-   [`fd83184`](https://github.com/stdlib-js/stdlib/commit/fd8318458d00f55297203080506d60e855a81437) - add `number/int32/base/muldw`
 -   [`c528ca7`](https://github.com/stdlib-js/stdlib/commit/c528ca74afe26392c37b06db6bacbd9b7a874af2) - add `number/int32/base/mul`
 
 </section>
 
 <!-- /.features -->
 
-</details>
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6826](https://github.com/stdlib-js/stdlib/issues/6826)
 
 </section>
 
-<!-- /.package -->
-
-<section class="package" id="number-int32-base-muldw-unreleased">
-
-#### [@stdlib/number/int32/base/muldw](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base/muldw)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`fd83184`](https://github.com/stdlib-js/stdlib/commit/fd8318458d00f55297203080506d60e855a81437) - add `number/int32/base/muldw`
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Gururaj Gurram
-
-</section>
-
-<!-- /.contributors -->
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -76,6 +35,8 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
+-   [`ccff6bb`](https://github.com/stdlib-js/stdlib/commit/ccff6bb23b8189890d32db75ce84ea464403a30d) - **chore:** fix JavaScript lint errors [(#7066)](https://github.com/stdlib-js/stdlib/pull/7066) _(by Uday Kakade)_
 -   [`9a6831e`](https://github.com/stdlib-js/stdlib/commit/9a6831eb31d985baec5ca19f5286e5756bacad8f) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`fd83184`](https://github.com/stdlib-js/stdlib/commit/fd8318458d00f55297203080506d60e855a81437) - **feat:** add `number/int32/base/muldw` _(by Gururaj Gurram)_
 -   [`c528ca7`](https://github.com/stdlib-js/stdlib/commit/c528ca74afe26392c37b06db6bacbd9b7a874af2) - **feat:** add `number/int32/base/mul` _(by Gururaj Gurram)_
@@ -86,6 +47,20 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gururaj Gurram
+-   Uday Kakade
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -93,26 +68,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-26)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -128,6 +83,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -147,26 +114,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -183,6 +130,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -202,81 +161,15 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-09-22)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="number-int32-base-v0.1.0">
-
-#### [@stdlib/number/int32/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-int32-base-to-uint32-v0.1.0">
-
-#### [@stdlib/number/int32/base/to-uint32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/int32/base/to-uint32)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -289,18 +182,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -315,6 +196,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
