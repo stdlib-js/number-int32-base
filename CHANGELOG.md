@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-09-01)
 
 <section class="features">
 
 ### Features
 
+-   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - add missing exports to namespaces
+-   [`fcad91e`](https://github.com/stdlib-js/stdlib/commit/fcad91e93b7066c1324e37a53567a686c08f2102) - add `number/int32/base/identity` [(#7861)](https://github.com/stdlib-js/stdlib/pull/7861)
 -   [`fd83184`](https://github.com/stdlib-js/stdlib/commit/fd8318458d00f55297203080506d60e855a81437) - add `number/int32/base/muldw`
 -   [`c528ca7`](https://github.com/stdlib-js/stdlib/commit/c528ca74afe26392c37b06db6bacbd9b7a874af2) - add `number/int32/base/mul`
 
@@ -35,6 +37,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
+-   [`7483bef`](https://github.com/stdlib-js/stdlib/commit/7483bef13b1d3241347266d25a02957269419825) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`fcad91e`](https://github.com/stdlib-js/stdlib/commit/fcad91e93b7066c1324e37a53567a686c08f2102) - **feat:** add `number/int32/base/identity` [(#7861)](https://github.com/stdlib-js/stdlib/pull/7861) _(by Gunj Joshi)_
 -   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
 -   [`ccff6bb`](https://github.com/stdlib-js/stdlib/commit/ccff6bb23b8189890d32db75ce84ea464403a30d) - **chore:** fix JavaScript lint errors [(#7066)](https://github.com/stdlib-js/stdlib/pull/7066) _(by Uday Kakade)_
 -   [`9a6831e`](https://github.com/stdlib-js/stdlib/commit/9a6831eb31d985baec5ca19f5286e5756bacad8f) - **refactor:** update paths _(by Gururaj Gurram)_
@@ -51,10 +56,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gunj Joshi
 -   Gururaj Gurram
+-   Philipp Burckhardt
 -   Uday Kakade
 
 </section>
