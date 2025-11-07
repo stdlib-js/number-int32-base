@@ -76,6 +76,9 @@ var o = ns;
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`identity( x )`][@stdlib/number/int32/base/identity]</span><span class="delimiter">: </span><span class="description">evaluate the identity function of a signed 32-bit integer.</span>
+-   <span class="signature">[`mul( a, b )`][@stdlib/number/int32/base/mul]</span><span class="delimiter">: </span><span class="description">perform C-like multiplication of two signed 32-bit integers.</span>
+-   <span class="signature">[`muldw( a, b )`][@stdlib/number/int32/base/muldw]</span><span class="delimiter">: </span><span class="description">compute the double word product of two signed 32-bit integers.</span>
 -   <span class="signature">[`int32ToUint32( x )`][@stdlib/number/int32/base/to-uint32]</span><span class="delimiter">: </span><span class="description">convert a signed 32-bit integer to an unsigned 32-bit integer.</span>
 
 </div>
@@ -186,6 +189,12 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/number-int32-base/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/number/int32/base/identity]: https://github.com/stdlib-js/number-int32-base-identity
+
+[@stdlib/number/int32/base/mul]: https://github.com/stdlib-js/number-int32-base-mul
+
+[@stdlib/number/int32/base/muldw]: https://github.com/stdlib-js/number-int32-base-muldw
 
 [@stdlib/number/int32/base/to-uint32]: https://github.com/stdlib-js/number-int32-base-to-uint32
 
