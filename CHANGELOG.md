@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-18)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`99dbca0`](https://github.com/stdlib-js/stdlib/commit/99dbca07465b736a1c33c439ece1e3b7e39c32b8) - **bench:** refactor random number generation in `number/int32/base/mul` [(#11494)](https://github.com/stdlib-js/stdlib/pull/11494) _(by Abdul Kaium)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Abdul Kaium
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
