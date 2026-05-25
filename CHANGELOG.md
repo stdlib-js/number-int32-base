@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-18)
+## Unreleased (2026-05-25)
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`8a85314`](https://github.com/stdlib-js/stdlib/commit/8a853143f40edf35363834dddec4eeeb0d883a68): remove `NaN` checks and optimize implementation for better performance
+
+</section>
+
+<!-- /.breaking-changes -->
 
 <section class="commits">
 
@@ -12,6 +22,8 @@
 
 <details>
 
+-   [`8a85314`](https://github.com/stdlib-js/stdlib/commit/8a853143f40edf35363834dddec4eeeb0d883a68) - **refactor:** remove `NaN` checks and optimize implementation for better performance [(#11699)](https://github.com/stdlib-js/stdlib/pull/11699) _(by Abdul Kaium, Athan Reines)_
+-   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
 -   [`99dbca0`](https://github.com/stdlib-js/stdlib/commit/99dbca07465b736a1c33c439ece1e3b7e39c32b8) - **bench:** refactor random number generation in `number/int32/base/mul` [(#11494)](https://github.com/stdlib-js/stdlib/pull/11494) _(by Abdul Kaium)_
 
 </details>
@@ -24,9 +36,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
+-   Athan Reines
+-   Karan Anand
 
 </section>
 
